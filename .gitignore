@@ -1,20 +1,5 @@
-# OS/ editor
-.DS_Store
-.vscode/
-.idea/
-
-# Python
-__pycache__/
-*.py[oc]
-.ipynb_checkpoints/
-
-# Secrets
-.env
-
-# Node (web)
-node_modules/
-.next/
-
-
-/notebooks/
-/playgrounds/
+.env 
+__pycache__/ 
+*.pyc 
+qdrant_data/ 
+.vscode/ 
